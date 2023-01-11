@@ -1,0 +1,17 @@
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer numero = 6;  
+
+  
+
+/* Dar o comando para exibir a variável criada *\ 
+
+system.debug(numero);  
+
+  
+
+  
+
+/* Dar o comando para exibir a variável antecessora da variavel criada *\ 
+
+system.debug(--numero); 

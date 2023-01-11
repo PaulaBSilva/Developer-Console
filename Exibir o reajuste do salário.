@@ -1,0 +1,17 @@
+/* Definir o tipo da variável, exemplo: DECIMAL que representa números *\ 
+
+decimal salario = 1200;  
+
+  
+
+/* criar a operação das variáveis, exemplo: DIVISÃO *\ 
+
+decimal reajuste = salario * 25 / 100 + salario; 
+
+  
+
+/* Dar o comando para exibir a variável criada *\ 
+
+system.debug(' O valor do novo salario com reajuste é ' + reajuste); 
+
+ 

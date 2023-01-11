@@ -1,0 +1,27 @@
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer nota1 = 7; 
+
+  
+
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer nota2 = 8;  
+
+  
+
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer nota3 = 10;  
+
+  
+
+/* criar a operação das variáveis, exemplo: MÉDIA adicionando pesos das notas*\ 
+
+integer media = nota1 * 2 + nota2 * 3 + nota3 * 5 / 10;  
+
+  
+
+/* Dar o comando para exibir a variável criada *\ 
+
+system.debug('A media das notas é ' + media); 

@@ -1,0 +1,15 @@
+/* Definir o tipo da variável, exemplo: STRING que representa texto *\ 
+
+string produto = 'Chocolate';  
+
+  
+
+/* Definir o tipo da variável, exemplo: DECIMAL que representa numeros decimais *\ 
+
+decimal valor = 4.00;  
+
+  
+
+/* Dar o comando para exibir a variável criada *\ 
+
+system.debug('Vendo ' + produto + ', por apenas ' + valor + ' reais. '); 

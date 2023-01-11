@@ -1,0 +1,21 @@
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer base = 7; 
+
+  
+
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer altura = 9; 
+
+  
+
+/* criar a operação das variáveis, exemplo: MULTIPLICAÇÃO *\ 
+
+integer area = base * altura; 
+
+  
+
+/* Dar o comando para exibir a operação das duas variáveis criadas *\ 
+
+system.debug(' A area do triangulo é ' + area); 

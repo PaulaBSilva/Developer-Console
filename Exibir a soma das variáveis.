@@ -1,0 +1,15 @@
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer n1 = 4;  
+
+  
+
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer n2 = 7;  
+
+  
+
+/* Dar o comando para exibir a variável criada com operação de soma *\ 
+
+system.debug('A soma de n1 mais n2 é ' + n1 + n2); 

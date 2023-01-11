@@ -1,0 +1,21 @@
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer idade = 25; 
+
+  
+
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer ano = 2022;  
+
+  
+
+/* criar a operação das variáveis, exemplo: SUBTRAÇÃO *\ 
+
+integer sub = ano - idade;  
+
+  
+
+/* Dar o comando para exibir a operação das duas variáveis criadas *\ 
+
+system.debug('Nascido em ' + sub);   

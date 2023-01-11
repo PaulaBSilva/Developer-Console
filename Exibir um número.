@@ -1,0 +1,21 @@
+/* 
+
+  Regras para nomes de variáveis  
+
+  -- sem caracter especial 
+
+  -- sem começar com numero  
+
+*\ 
+
+  
+
+/* Definir o tipo da variável, exemplo: INTEGER que representa números *\ 
+
+integer numero = 13;  
+
+  
+
+/* Dar o comando para exibir a variável criada *\ 
+
+system.debug(numero); 
